@@ -40,7 +40,7 @@ public class ED07 {
         
         
         
-      
+        System.out.println("Concepcion Sudario");
         System.out.println("Jhoel Gavidia Calderon");   
         
         System.out.println("Italo Rodriguez Anaya");
