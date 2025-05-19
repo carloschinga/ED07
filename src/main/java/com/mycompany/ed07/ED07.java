@@ -4,6 +4,9 @@
 
 package com.mycompany.ed07;
 
+import dto.Operadores;
+import java.util.Stack;
+
 /**
  *
  * @author USER
@@ -11,38 +14,33 @@ package com.mycompany.ed07;
 public class ED07 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("Santos Morales Enrique");
-        System.out.println("Sanchez Barreto Ariana");
+        Stack<Operadores> pilaOperadores= new Stack<Operadores>();
         
-        System.out.println("Angeline Manosalva Juarez");
-        
-        System.out.println("Blas Basurto Fabrizio");
+        String formula="[({})]";
+        String caracteresApertura="[({";
         
         
+        Operadores op1= new Operadores();
+        op1.setCodigo(1);
+        op1.setNombre("[");
         
+        Operadores op2= new Operadores();
+        op2.setCodigo(2);
+        op2.setNombre("(");
         
-        System.out.println("Isaias Gomero Noel");
+        Operadores op3= new Operadores();
+        op3.setCodigo(3);
+        op3.setNombre("{");
         
+        pilaOperadores.push(op1);
+        pilaOperadores.push(op2);
+        pilaOperadores.push(op3);
         
-        System.out.println("Santos Cornejo Billy Ashton");
-        System.out.println("Renzo Gamarra Clemente");
+        System.out.println(pilaOperadores.peek().getNombre());
+        pilaOperadores.pop();
+        System.out.println(pilaOperadores.peek().getNombre());
+        pilaOperadores.pop();
+        System.out.println(pilaOperadores.peek().getNombre());
         
-        
-        System.out.println("Pec-lin Chang Martinez");
-        
-        
-        System.out.println("Angela Diaz Morales "); 
-        
-        System.out.println("De La Cruz Chumbes Rommel");
-        System.out.println("Davila Villanueva Mathias");
-        
-        System.out.println("Diaz Leiva Harumi");
-        
-        
-        System.out.println("Concepcion Sudario Stiben Roy");
-        System.out.println("Jhoel Gavidia Calderon");   
-        
-        System.out.println("Italo Rodriguez Anaya");
     }
 }
