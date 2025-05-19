@@ -15,7 +15,7 @@ public class ED07 {
         System.out.println("Santos Morales Enrique");
         System.out.println("Sanchez Barreto Ariana");
         
-        
+        System.out.println("Angeline Manosalva Juarez");
         
         System.out.println("Blas Basurto Fabrizio");
         
