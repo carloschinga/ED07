@@ -9,5 +9,8 @@ package com.mycompany.ed07;
  * @author ARIANA
  */
 public class SanchezAriana {
-    
+    public static void main(String[] args) {
+        System.out.println("Sanchez Barreto Ariana");
+    }
+  
 }
