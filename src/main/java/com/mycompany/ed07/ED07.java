@@ -26,7 +26,7 @@ public class ED07 {
         
         
         System.out.println("Santos Cornejo Billy Ashton");
-        
+        System.out.println("Renzo Gamarra Clemente");
         
         
         System.out.println("Pec-lin Chang Martinez");
