@@ -22,7 +22,7 @@ public class ED07 {
         
         
         
-        
+        System.out.println("Isaias Gomero Noel");
         
         
         System.out.println("Santos Cornejo Billy Ashton");
