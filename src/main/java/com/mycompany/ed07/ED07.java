@@ -42,5 +42,7 @@ public class ED07 {
         
       
         System.out.println("Jhoel Gavidia Calderon");   
+        
+        System.out.println("Italo Rodriguez Anaya");
     }
 }
