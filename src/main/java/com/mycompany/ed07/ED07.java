@@ -32,7 +32,7 @@ public class ED07 {
         System.out.println("Pec-lin Chang Martinez");
         
         
-        System.out.println("Angela Diaz Morales"); 
+        System.out.println("Angela Diaz Morales "); 
         
         
         System.out.println("Davila Villanueva Mathias");
