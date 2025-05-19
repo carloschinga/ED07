@@ -8,6 +8,6 @@ package com.mycompany.ed07;
  *
  * @author ARIANA
  */
-public class SanchezBarretoAriana {
+public class SanchezAriana {
     
 }
