@@ -34,7 +34,7 @@ public class ED07 {
         
         System.out.println("Angela Diaz Morales "); 
         
-        
+        System.out.println("De La Cruz Chumbes Rommel");
         System.out.println("Davila Villanueva Mathias");
         
         
