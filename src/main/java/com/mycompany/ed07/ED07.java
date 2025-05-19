@@ -13,7 +13,7 @@ public class ED07 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Santos Morales Enrique");
-        
+        System.out.println("Sanchez Barreto Ariana");
         
         
         
