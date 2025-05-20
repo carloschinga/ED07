@@ -6,6 +6,6 @@ package com.mycompany.ed07;
  */
 public class BeckanGeronimo {
     public static void main(String[] args) {
-        System.out.println("Beckan Geronimo");
+        System.out.println("Beckan Geronimo Valenzuela");
     }
 }
